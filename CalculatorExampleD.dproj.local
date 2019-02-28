@@ -1,11 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2019/02/24 17:45:36.769,=C:\Users\Renan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2019/02/24 17:48:14.690,C:\Users\Renan\Documents\Embarcadero\Studio\Projects\CalculatorExample\CalculatorExample.pas=C:\Users\Renan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2019/02/24 17:48:14.780,C:\Users\Renan\Documents\Embarcadero\Studio\Projects\CalculatorExample\CalculatorExample.fmx=C:\Users\Renan\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
-    <Transaction>2019/02/24 17:50:11.829,C:\Users\Renan\Documents\Embarcadero\Studio\Projects\CalculatorExample\CalculatorExampleD.dproj=C:\Users\Renan\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2019/02/24 17:52:18.746,C:\Users\Renan\Documents\Embarcadero\Studio\Projects\CalculatorExample\uFormCalculator.fmx=C:\Users\Renan\Documents\Embarcadero\Studio\Projects\CalculatorExample\CalculatorExample.fmx</Transaction>
-    <Transaction>2019/02/24 17:52:18.746,C:\Users\Renan\Documents\Embarcadero\Studio\Projects\CalculatorExample\uFormCalculator.pas=C:\Users\Renan\Documents\Embarcadero\Studio\Projects\CalculatorExample\CalculatorExample.pas</Transaction>
+	<Transactions>
+    <Transaction>2019/02/24 17:45:36.000.769,=C:\Users\Renan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/24 17:48:14.000.690,C:\Users\Renan\Documents\Embarcadero\Studio\Projects\CalculatorExample\CalculatorExample.pas=C:\Users\Renan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/24 17:48:14.000.780,C:\Users\Renan\Documents\Embarcadero\Studio\Projects\CalculatorExample\CalculatorExample.fmx=C:\Users\Renan\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2019/02/24 17:50:11.000.829,C:\Users\Renan\Documents\Embarcadero\Studio\Projects\CalculatorExample\CalculatorExampleD.dproj=C:\Users\Renan\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/02/24 17:52:18.000.746,C:\Users\Renan\Documents\Embarcadero\Studio\Projects\CalculatorExample\uFormCalculator.pas=C:\Users\Renan\Documents\Embarcadero\Studio\Projects\CalculatorExample\CalculatorExample.pas</Transaction>
+    <Transaction>2019/02/24 17:52:18.000.746,C:\Users\Renan\Documents\Embarcadero\Studio\Projects\CalculatorExample\uFormCalculator.fmx=C:\Users\Renan\Documents\Embarcadero\Studio\Projects\CalculatorExample\CalculatorExample.fmx</Transaction>
+    <Transaction>2019/02/26 22:03:04.000.199,=C:\Users\renan\Documents\Embarcadero\Studio\Projects\CalculatorExample\Unit1.pas</Transaction>
+    <Transaction>2019/02/26 22:16:24.000.982,C:\Users\renan\Documents\Embarcadero\Studio\Projects\CalculatorExample\Unit1.pas=C:\Users\renan\Documents\Embarcadero\Studio\Projects\CalculatorExample\TCalculator.pas</Transaction>
+    <Transaction>2019/02/26 22:16:36.000.435,C:\Users\renan\Documents\Embarcadero\Studio\Projects\CalculatorExample\TCalculator.pas=C:\Users\renan\Documents\Embarcadero\Studio\Projects\CalculatorExample\UCalculator.pas</Transaction>
   </Transactions>
 </BorlandProject>

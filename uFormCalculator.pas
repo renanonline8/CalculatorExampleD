@@ -5,12 +5,12 @@ interface
 uses
   System.SysUtils, System.Types, System.UITypes, System.Classes, System.Variants,
   FMX.Types, FMX.Controls, FMX.Forms, FMX.Graphics, FMX.Dialogs,
-  FMX.Controls.Presentation, FMX.StdCtrls;
+  FMX.Controls.Presentation, FMX.StdCtrls, FMX.Layouts;
 
 type
-  TForm1 = class(TForm)
-    Button1: TButton;
-    procedure Button1Click(Sender: TObject);
+  TFormCalc = class(TForm)
+    LayoutDisplay: TLayout;
+    LabelDisplay: TLabel;
   private
     { Private declarations }
   public
@@ -18,15 +18,10 @@ type
   end;
 
 var
-  Form1: TForm1;
+  FormCalc: TFormCalc;
 
 implementation
 
 {$R *.fmx}
-
-procedure TForm1.Button1Click(Sender: TObject);
-begin
-  ShowMessage ('Hello Delphi!');
-end;
 
 end.

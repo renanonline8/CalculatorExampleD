@@ -7,7 +7,7 @@ My first app in Delphi, based in https://community.idera.com/developer-tools/b/b
 1. [x] Introduction and Installation to Delphi CE
 2. [x] Building and Debugging with Delphi
 3. [x] Architecture and Layers of Code
-4. [ ] Designing user interfaces
+4. [x] Designing user interfaces
 5. [ ] Putting the Calculator Together
 
 ## Architecture and Layers of Code

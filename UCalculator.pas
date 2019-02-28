@@ -15,22 +15,22 @@ implementation
 
 {TCalculator}
 
-class function TCalculator.Add(a, b: Double);
+class function TCalculator.Add(a, b: Double): Double;
 begin
   Result := a + b;
 end;
 
-class function TCalculator.Divide(a, b: Double);
+class function TCalculator.Divide(a, b: Double): Double;
 begin
   Result := a / b;
 end;
 
-class function TCalculator.Multiply(a, b: Double);
+class function TCalculator.Multiply(a, b: Double): Double;
 begin
   Result := a * b;
 end;
 
-class function TCalculator.Subtract(a, b: Double);
+class function TCalculator.Subtract(a, b: Double): Double;
 begin
   Result := a - b;
 end;
