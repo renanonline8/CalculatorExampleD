@@ -2,6 +2,9 @@ unit UCalculator;
 
 interface
 
+uses
+  System.SysUtils;
+
 type
   TCalculator = class
   public
@@ -20,7 +23,7 @@ type
     FOperation: TOperatorEnum;
     FDisplayTotal: Boolean;
   public
-    constructor Create;
+    //constructor Create;
 
     procedure AddDigit(Digit: string);
     procedure AddDecimalSeparator;
@@ -61,7 +64,8 @@ end;
 
 procedure TCalcStatus.AddDigit(Digit: string);
 begin
-  FDisplayTotal := Digit;
+  FDisplayTotal := False;
+  FInputValue := FInputValue + digit;
 end;
 
 procedure TCalcStatus.NewOperation(Oper: TOperatorEnum);
@@ -85,14 +89,14 @@ begin
 
   //reset status
   FOperation := opNull;
-  FOperation := True;
+  FDisplayTotal := True;
   FInputValue := '';
 end;
 
 function TCalcStatus.DisplayValue: string;
 begin
   if FDisplayTotal then
-    Result := FloatToStr(FCurrentTotal);
+    Result := FloatToStr(FCurrentTotal)
   else
     Result := FinputValue;
 end;

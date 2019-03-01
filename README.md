@@ -1,4 +1,4 @@
-# First App in Delphi
+# First App in Delphi - Calculator
 
 My first app in Delphi, based in https://community.idera.com/developer-tools/b/blog/posts/learn-to-program-with-community-edition
 
@@ -8,7 +8,7 @@ My first app in Delphi, based in https://community.idera.com/developer-tools/b/b
 2. [x] Building and Debugging with Delphi
 3. [x] Architecture and Layers of Code
 4. [x] Designing user interfaces
-5. [ ] Putting the Calculator Together
+5. [x] Putting the Calculator Together
 
 ## Architecture and Layers of Code
 
